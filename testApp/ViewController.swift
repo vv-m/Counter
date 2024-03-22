@@ -42,6 +42,7 @@ class ViewController: UIViewController {
         // Преобразование даты в строку
         let dateString = formatter.string(from: now)
         return dateString
+        
     }
     
     func scrollDown() {
